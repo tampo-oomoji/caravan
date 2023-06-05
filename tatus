@@ -1,0 +1,17 @@
+[33mcommit b419142db179428168543013543b2810d1d9f642[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: EC2 Default User <ec2-user@ip-172-31-14-101.ap-northeast-1.compute.internal>
+Date:   Mon Jun 5 07:17:12 2023 +0000
+
+    [finish2-6]
+
+[33mcommit a37f8b387a200dffe756a94728de3a2bd444e97a[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: EC2 Default User <ec2-user@ip-172-31-14-101.ap-northeast-1.compute.internal>
+Date:   Mon Jun 5 03:09:01 2023 +0000
+
+    footterやりました
+
+[33mcommit 9c7c63e3caae8b9aef63fc5854577b9cd6eec196[m
+Author: EC2 Default User <ec2-user@ip-172-31-14-101.ap-northeast-1.compute.internal>
+Date:   Sat Jun 3 14:22:58 2023 +0000
+
+    add newfile
